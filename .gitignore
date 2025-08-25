@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+dist/
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Vite
+frontend/dist/
+
+# Backend build
+backend/node_modules/
+backend/.env
